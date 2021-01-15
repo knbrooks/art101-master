@@ -7,3 +7,12 @@ h1 {
 body {
   background-color: #ffb3ff;
 }
+i {
+  font-size: 60px;
+  color: darkred;
+}
+p {
+  font-size: 40px;
+  color: red;
+  font-weight: bolder;
+}
