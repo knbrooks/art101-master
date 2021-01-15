@@ -1,0 +1,9 @@
+h1 {
+  color: red;
+  font-family: "Oswald", fantasy;
+  font-weight: bolder;
+  font-size: 50px;
+}
+body {
+  background-color: #ffb3ff;
+}
