@@ -1,0 +1,21 @@
+p {
+  font-size: 100%;
+  font-color: black;
+}
+
+body {
+  background-color: pink;
+}
+
+h1 {
+  font-size: 400%;
+  color: #4d004d;
+  font-family: "Oswald", fantasy;
+  font-weight: bolder;
+}
+
+h2 {
+  font-weight: bold;
+  font-family: "Oswald", fantasy;
+  color: purple;
+}

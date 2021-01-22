@@ -1,0 +1,75 @@
+h1 {
+  color: red;
+  font-family: "Oswald", fantasy;
+  font-weight: bolder;
+  font-size: 70px;
+}
+h2 {
+  font-family: "Oswald", fantasy;
+  font-weight: bold;
+  font-size: 260%;
+}
+img {
+  width: 500px;
+  float: right;
+  margin-right: 10px;
+}
+
+body {
+  background-color: #ffb3ff;
+}
+
+i {
+  font-size: 60px;
+  color: darkred;
+}
+
+p2 {
+  text-indent: 30px;
+  font-size: 175%;
+}
+
+#content {
+  background-color: #ffccff;
+  width: 540px;
+  min-height: 270px;
+  padding: 10px;
+  margin-left: 25px;
+  margin-right: 35px;
+  border: solid 15px #ff0066;
+  margin-top: 10px;
+  float: left;
+}
+
+#labs {
+  background-color: #ffccff;
+  width: 230px;
+  min-height: 220px;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 40px;
+  border: solid 15px #ff0066;
+  margin-top: 10px;
+  float: right;
+}
+
+ul {
+  font-size: 250%;
+}
+
+#projects{
+  background-color: #ffccff;
+  width: 540px;
+  min-height: 200px;
+  padding: 10px;
+  margin-left: 25px;
+  margin-right: 35px;
+  border: solid 15px #ff0066;
+  margin-top: 10px;
+}
+
+p {
+  font-size: 40px;
+  color: red;
+  font-weight: bolder;
+}
