@@ -19,14 +19,14 @@ h3 {
     }
 
 body {
-    background-color: #dbf3fa;
+    background-color: #ecc6ec;
 }
 
 #content {
   border: solid 4px black;
   background-color: #f1feeb;
   width: 1200px;
-  height: 1100px;
+  height: 800px;
   padding: 25px;
   margin-left: 50px;
   margin-right: 50px;
@@ -40,8 +40,4 @@ img {
 
 p {
   font-size: 150%;
-}
-
-#methods {
-  font-size: 200%;
 }
