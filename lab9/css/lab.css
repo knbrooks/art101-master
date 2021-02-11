@@ -42,3 +42,8 @@ body {
   margin-right: 70px;
   margin-top: 20px;
 }
+
+p {
+  font-size: 150%;
+  color: white;
+}
