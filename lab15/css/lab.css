@@ -7,7 +7,7 @@ h1 {
 
 h2 {
     font-size: 300%;
-    color:  #ff3333;
+    color:  cornflowerblue;
     font-family: "Arial", serif;
     font=weight: bolder;
 }
@@ -19,7 +19,7 @@ h3 {
     }
 
 body {
-    background-color: #99004d;
+    background-color: lightyellow;
 }
 
 .sectionbox {
